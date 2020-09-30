@@ -217,7 +217,7 @@ body{
 
 }
 
-@media  screen and (max-width: 800px) {
+@media  screen and (max-width: 500px) {
 	.contenedor-nosotros img{
 		width: 80%;
 		margin-bottom: 40px;
@@ -229,7 +229,7 @@ body{
 	}
 
 	.nosotros{
-	height: 140vh;
+	height: 160vh;
 	}
 
 }
